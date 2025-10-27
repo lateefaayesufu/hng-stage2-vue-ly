@@ -130,7 +130,7 @@ async function handleSubmit() {
         formData.value.confirmPassword
       );
 
-      success('Account created successfully! Welcome to TicketFlow.');
+      success('Account created successfully! Welcome to Ticketrak.');
       router.push('/dashboard');
     } catch (error) {
       errors.value = { general: error.message };

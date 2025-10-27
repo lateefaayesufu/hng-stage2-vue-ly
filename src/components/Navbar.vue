@@ -12,7 +12,7 @@
               </linearGradient>
             </defs>
           </svg>
-          <span>TicketFlow</span>
+          <span>ticketrak</span>
         </router-link>
 
         <div class="navbar-links">
