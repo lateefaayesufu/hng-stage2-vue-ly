@@ -72,6 +72,14 @@ The app includes:
 
 ---
 
+## ✦ Demo Credentials
+
+Email: demo@ticket.app
+
+Password: password123
+
+---
+
 ## ✦ Local Setup
 ```bash
 git clone <repo-url>
@@ -80,8 +88,3 @@ npm install
 npm run dev
 
 
-✦ Demo Credentials
-
-Email: demo@ticket.app
-
-Password: password123
